@@ -122,7 +122,7 @@ For comprehensive documentation on the Skytells AI platform, visit:
 - **General Documentation:** [https://docs.skytells.ai](https://docs.skytells.ai)
 - **TypeScript SDK Documentation:** [https://docs.skytells.ai/sdks/ts](https://docs.skytells.ai/sdks/ts)
 - **Available Models:** [https://docs.skytells.ai/models](https://docs.skytells.ai/models)
-- **API Reference:** [https://docs.skytells.ai/api-reference](https://docs.skytells.ai/api-reference)
+- **API Docs:** [https://docs.skytells.ai](https://docs.skytells.ai)
 
 ## Environment Variables
 
